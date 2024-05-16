@@ -1,3 +1,5 @@
+// O(n*logn) - with priority queue else O(n^2)
+
 #include <bits/stdc++.h>
 using namespace std;
 #define V 5
