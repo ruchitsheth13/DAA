@@ -1,3 +1,5 @@
+// O(n^k) where k = no. of colors
+
 #include <bits/stdc++.h>
 using namespace std;
 
