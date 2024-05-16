@@ -1,3 +1,5 @@
+// O(n^log7) = O(n^2.87)
+
 #include<bits/stdc++.h>
 using namespace std;
 
