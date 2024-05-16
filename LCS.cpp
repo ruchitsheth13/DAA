@@ -24,8 +24,8 @@ int lcs(string X, string Y, int m, int n) {
 int main() {
     string S1 = "AGGTAB";
     string S2 = "GXTXAYB";
-    int m = S1.size();
-    int n = S2.size();
+    int m = S1.length();
+    int n = S2.length();
 
     cout << "Length of LCS is " << lcs(S1, S2, m, n);
     return 0;
