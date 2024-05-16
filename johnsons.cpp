@@ -1,3 +1,5 @@
+// O(n^2 * logn)
+
 #include <bits/stdc++.h>
 using namespace std;
 
