@@ -1,3 +1,5 @@
+// NP - hard, cannot be solved in polynomial time
+
 #include <bits/stdc++.h>
 using namespace std;
 
