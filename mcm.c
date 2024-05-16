@@ -1,3 +1,5 @@
+// O(n^3)
+
 #include <stdio.h>
 #include <limits.h>
 
