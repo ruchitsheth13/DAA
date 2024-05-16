@@ -1,3 +1,5 @@
+// O(n*logn)
+
 #include <bits/stdc++.h>
 using namespace std;
 
